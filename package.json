@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-dev-server-proxies",
+  "version": "1.0.0",
+  "description": "Help developers manage api proxies of different clients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Priestch/vue-cli-plugin-dev-server-proxies.git"
+  },
+  "keywords": [
+    "vue-cli-plugin",
+    "dev-server-proxies"
+  ],
+  "author": "Priestch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Priestch/vue-cli-plugin-dev-server-proxies/issues"
+  },
+  "homepage": "https://github.com/Priestch/vue-cli-plugin-dev-server-proxies#readme"
+}
